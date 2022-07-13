@@ -1,0 +1,22 @@
+para inicializar el poryecto hay que usar git init en la terminal
+despues hay que logearse unsado git config user.name 'nombre' y git config user.email 'email' 
+
+podes usar los comando git config --global user.name y email, para que cada poyecto que inicias ya los 
+tenga gardado, usando git init config user.email o suer, sin nada podes ver que usario esta registrado
+
+ahora hay que crear el repositorio en github.com, un vez creado, el mismo va a tener un url unico
+que hay que ponerlo en la terminal con el comando git remote add origin https://github.com/jumashaggy/prueba.gitgit
+
+ahora con git add index.js podes subir el archivo a la nube
+y con git status ver si estan actualizados
+con git add  el nombre susbis solo ese archivo 
+pero con git add .   subis todos
+
+
+git commit -m 'primera prueba' son las distitan, bases guardadas, cuando llegas a cierto rpogreso para poder 
+retroceder si algo sale mal, por eso va aacompaniado de un comentario
+
+creando una carpeta en la tu compu, y apretando el boton derecho, abris la terminal de git po pones
+git clone mas la url pegada te ayuda a descargar todos los archivos del poryecto
+
+congit pull origin master se actualizan los archvios descargados en el paso anteriorq
