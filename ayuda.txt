@@ -19,4 +19,6 @@ retroceder si algo sale mal, por eso va aacompaniado de un comentario
 creando una carpeta en la tu compu, y apretando el boton derecho, abris la terminal de git po pones
 git clone mas la url pegada te ayuda a descargar todos los archivos del poryecto
 
-congit pull origin master se actualizan los archvios descargados en el paso anteriorq
+con git pull origin master se actualizan los archvios descargados en el paso anterior
+
+ TE CAMBIA DE main A  MASTER         git branch -m main master
